@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-17 – Work session, i calculated house dimensions, made it 1:40 scale to make it be (almost) possible to print with a printer (almost, just a bit off)](#2026-10-17-work-session-i-calculated-house-dimensions-made-i)
-2. [2026-10-17 – Work session](#2026-10-17-work-session)
+2. [2026-10-17 – Work session, finished the inner and outer walls, and all the closets and doors, it took tons of calculations and measurements. I just have the roof, floor, and actual blueprints and floorplans left n](#2026-10-17-work-session-finished-the-inner-and-outer-walls-a)
 
 ## Design
 
@@ -31,8 +31,15 @@ Work session, i calculated house dimensions, made it 1:40 scale to make it be (a
 
 [Timelapse](https://lookout.hackclub.com/api/media/c19304a6-afb1-4ce5-bec5-7be5f0ea67b5/video.mp4)
 
-### 2026-10-17 – Work session
+### 2026-10-17 – Work session, finished the inner and outer walls, and all the closets and doors, it took tons of calculations and measurements. I just have the roof, floor, and actual blueprints and floorplans left n
 
 **2.38h**
+
+Work session, finished the inner and outer walls, and all the closets and doors, it took tons of calculations and measurements. I just have the roof, floor, and actual blueprints and floorplans left now. I decided to remove the lighting due to lack of time.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ICfGl9WlsUCo0vTQqywfbnXlt0PfIwC1/c0aa15238457a706008a9e5984e1e075470389baa3a9015a2f1fe9c5708841b5.png)
+
+![Screenshot 2026-10-17 195346](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ICfGl9WlsUCo0vTQqywfbnXlt0PfIwC1/6c0335f6ac275f76d015d1705b0ffb68856063039a9bb918be87d97b5590ef10.png)
+![Screenshot 2026-10-17 195358](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ICfGl9WlsUCo0vTQqywfbnXlt0PfIwC1/132928585440d0e78486a2fe1dddd57ab374691e4116228f089d7b24e3a33f94.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/0e409f75-b3a9-4b27-b8c3-877e9af84404/video.mp4)
