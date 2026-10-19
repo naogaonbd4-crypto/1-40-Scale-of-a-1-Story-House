@@ -6,4 +6,5 @@ This is a life size house, shrunk down to 1:40 scale to be able to be printable.
 
 The top view shows all the rooms. The scaled down size of the building is 11.625 inches x 7.125 inches x 2.7 inches. It is also 923.7657 sq. ft. in a 1:1 scale. However, for some 3d printers, the 1:40 scale may be too big, and must be sliced based on your preference. 
 For anyone looking for a floorplan (approximate, as it didn't fit on a single US letter sized paper) it is down below:
+<img width="2000" height="2640" alt="image" src="https://github.com/user-attachments/assets/db97213d-cf07-41da-a1e9-2add894817e0" />
 
